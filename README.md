@@ -10,3 +10,4 @@ We have to download dataset from kaggle and clean the data to bring effective in
 1.Employees in age group 19-30 have high attrition count.
 2. Research and development & Sales departments have high attrition rate.
 3.Male members have high attrition count.
+4.Sales Executive , Research Scientist & Laboratory Technical have high attrition count by job role.
