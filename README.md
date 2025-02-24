@@ -4,7 +4,7 @@ To creat a dashboard that can help HR to take effective strategies in order to r
 
 # About Dataset:
 
-We have to download dataset from kaggle and clean the data to bring effective insights from the data.
+We have download dataset from kaggle and clean the data to bring effective insights from the data.
 
 # Insight Gathered:
 1.Employees in age group 19-30 have high attrition count.
